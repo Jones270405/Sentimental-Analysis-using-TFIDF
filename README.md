@@ -1,10 +1,10 @@
 # Task 2: Sentiment Analysis using NLP  
-**Machine Learning Internship – Elitech**
+**Machine Learning Internship – EliteTech**
 
 ---
 
 ## Overview
-This project is part of **Task 2** of the **Machine Learning Internship at Elitech**.  
+This project is part of **Task 2** of the **Machine Learning Internship at EliteTech**.  
 The objective of this task is to perform **Sentiment Analysis** on customer reviews using **Natural Language Processing (NLP)** techniques and evaluate the performance of the model.
 
 ---
