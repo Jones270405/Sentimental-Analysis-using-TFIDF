@@ -55,7 +55,7 @@ To build a **Sentiment Analysis model** that learns patterns from customer revie
 
 ---
 
-## 📌 Key Learnings
+## Key Learnings
 - Understanding text preprocessing techniques in NLP  
 - Importance of feature extraction using **TF-IDF**  
 - Applying **Logistic Regression** for sentiment classification  
@@ -63,7 +63,7 @@ To build a **Sentiment Analysis model** that learns patterns from customer revie
 
 ---
 
-## 🚀 Conclusion
+## Conclusion
 This task strengthened my understanding of **Natural Language Processing** and improved my ability to preprocess, analyze, and classify textual data using machine learning models.
 
 ---
