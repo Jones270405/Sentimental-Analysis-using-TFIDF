@@ -1,0 +1,11 @@
+review_id,gender,age,education,product_category,ordered_menu,order_frequency,rating,review,satisfaction_level,delivery_time,review_text
+1,Female,21,Undergraduate,Food,Pizza,Often,5,Good,High,Early,Very tasty and fresh
+2,Male,25,Graduate,Food,Burger,Very Often,4,Good,High,On Time,Good quality food
+3,Female,19,High School,Food,Sandwich,Sometimes,3,Average,Medium,On Time,It was okay
+4,Male,32,Postgraduate,Electronics,Laptop,Rarely,2,Bad,Low,Late,Heating issue
+5,Female,28,Graduate,Electronics,Mobile Phone,Often,4,Good,High,On Time,Smooth performance
+6,Male,40,Doctorate,Food,Pasta,Rarely,5,Good,High,Early,Excellent taste
+7,Female,22,Undergraduate,Fashion,Dress,Often,3,Average,Medium,Late,Delivery was late
+8,Male,30,Postgraduate,Fashion,Shoes,Sometimes,4,Good,High,On Time,Comfortable shoes
+9,Female,35,Graduate,Electronics,Headphones,Very Often,2,Bad,Low,Late,Poor sound quality
+10,Male,27,Undergraduate,Food,Biryani,Often,5,Good,High,Early,Delicious food
